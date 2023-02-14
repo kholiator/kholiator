@@ -6,7 +6,7 @@
 ### <div align="center">I'm Akhil Kholia </div>  
   
 
-- 🌱 I’m currently learning React  
+- 🌱 I’m currently learning Flutter  
   
 
 - ❓ Ask me about anything related to DSA,C++  
